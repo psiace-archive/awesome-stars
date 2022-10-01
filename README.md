@@ -149,7 +149,7 @@
 - [blanham/liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [rsms/wlang](https://github.com/rsms/wlang) - Programming language in development
 - [richfelker/mallocng-draft](https://github.com/richfelker/mallocng-draft) - Working draft of nextgen malloc implementation for musl libc
-- [horse64/core.horse64.org](https://github.com/horse64/core.horse64.org) - A simple & versatile high-level programming language.
+- [horse64/old-core.horse64.org](https://github.com/horse64/old-core.horse64.org) - A simple & versatile high-level programming language.
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [ronen25/libcmdf](https://github.com/ronen25/libcmdf) - Single-header library for writing CLI applications in C/C++
 - [dylanaraps/sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
@@ -226,7 +226,6 @@
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
-- [darklife/darkriscv](https://github.com/darklife/darkriscv) - opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 
 ## C# # 
 
@@ -236,6 +235,7 @@
 
 ## C++ 
 
+- [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [usamoi/saha](https://github.com/usamoi/saha) - OSPP 2022 Project: String Adaptive Hash Table for Databend
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [stoneatom/stonedb](https://github.com/stoneatom/stonedb) - StoneDB is an open-source, MySQL HTAP and MySQL-native database for oltp, real-time analytics
@@ -286,7 +286,7 @@
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - TensorFlow Lite for Microcontrollers
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [romeric/Fastor](https://github.com/romeric/Fastor) - A lightweight high performance tensor algebra framework for modern C++
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native distributed storage platform.
@@ -403,13 +403,14 @@
 
 ## Cython 
 
+- [fantix/kloop](https://github.com/fantix/kloop) - OFFICIAL MIRROR. An asyncio event loop using Linux io_uring and kTLS.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [CympleTech/ESSE](https://github.com/CympleTech/ESSE) - Encrypted peer-to-peer system for data security. Own data, own privacy. (Rust+Flutter)
-- [tw-bc-group/TWallet](https://github.com/tw-bc-group/TWallet) - 
+- [tw-bc-group/TWallet](https://github.com/tw-bc-group/TWallet) - A highly modularized white-labeling digital wallet framework
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -420,6 +421,7 @@
 
 ## Elixir 
 
+- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) - 👁 A merge bot for GitHub Pull Requests
 - [tessi/wasmex](https://github.com/tessi/wasmex) - Execute WebAssembly / WASM from Elixir
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
@@ -445,6 +447,10 @@
 
 ## Go 
 
+- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
+- [databendcloud/bendsql](https://github.com/databendcloud/bendsql) - CLI for databend cloud
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
+- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - An Open-Source Platform for Production Data Science
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
@@ -453,7 +459,7 @@
 - [felipemarinho97/dev-spaces](https://github.com/felipemarinho97/dev-spaces) - A CLI to help creating development environments on cloud using AWS Spot Instances
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML, based on buildkit
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [Slach/clickhouse-flamegraph](https://github.com/Slach/clickhouse-flamegraph) - CLI utility for build flamegraph based on system.trace_log
 - [iterative/terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - ☁️ Terraform plugin for machine learning workloads: spot instance recovery & auto-termination | AWS, GCP, Azure, Kubernetes
@@ -466,7 +472,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Hyperconverged cloud-edge native database
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool that supports distributed tracing, metrics, and logs.
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool with support for distributed tracing, metrics, and logs
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -513,10 +519,10 @@
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [andrewlee302/MIT-6.824](https://github.com/andrewlee302/MIT-6.824) - Implementation of MIT 6.824: Distributed Systems
 - [pingcap/dumpling](https://github.com/pingcap/dumpling) - Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -541,6 +547,7 @@
 
 ## HTML 
 
+- [skyzh/bustub-web-shell](https://github.com/skyzh/bustub-web-shell) - BusTub web shell
 - [zineland/2d2d](https://github.com/zineland/2d2d) - TO-D Magazine https://2d2d.io
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [startupengine/startupengine](https://github.com/startupengine/startupengine) - An open-source platform for startups with integrated CMS, analytics, and A/B testing.
@@ -553,7 +560,7 @@
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer) - LaTeX editor written in Python with Gtk
 - [Enet4/rust-tropes](https://github.com/Enet4/rust-tropes) - A dictionary of jargon and tropes around the community of Rust developers.
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 - [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - The Rust Programming Language Blog
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
@@ -585,12 +592,14 @@
 
 ## Java 
 
+- [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
+- [datafuse-extras/examples](https://github.com/datafuse-extras/examples) - examples codes about using databend
 - [nexmark/nexmark](https://github.com/nexmark/nexmark) - Benchmarks for queries over continuous data streams.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
 - [confluentinc/data-mesh-demo](https://github.com/confluentinc/data-mesh-demo) - A Data Mesh prototype built on Confluent Cloud
-- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -608,6 +617,8 @@
 
 ## JavaScript 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -642,6 +653,7 @@
 - [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [lezer-parser/rust](https://github.com/lezer-parser/rust) - Rust grammar for Lezer
+- [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [LCTT/LCRH](https://github.com/LCTT/LCRH) - LCRH - SIG
 - [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
@@ -736,6 +748,8 @@
 
 ## Jupyter Notebook 
 
+- [yuanxiaosc/Machine-Learning-Book](https://github.com/yuanxiaosc/Machine-Learning-Book) - 《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！
+- [quantopian/pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python
 - [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes) - 数据科学的笔记以及资料搜集
 - [eto-ai/rikai](https://github.com/eto-ai/rikai) - Parquet-based ML data format optimized for working with unstructured data
 - [purvasingh96/AI-for-Trading](https://github.com/purvasingh96/AI-for-Trading) - 📈This repo contains detailed notes and multiple projects implemented in Python related to AI and Finance. Follow the blog here: https://purvasingh.medium.com
@@ -776,7 +790,6 @@
 - [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
 - [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [ljrcore/LearningLinuxKernel](https://github.com/ljrcore/LearningLinuxKernel) - 和我一起学习Linux内核吧
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Markdown 
 
@@ -789,6 +802,8 @@
 
 ## Others 
 
+- [wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper) - Recent Fuzzing Paper
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [RalfJung/minirust](https://github.com/RalfJung/minirust) - A precise specification for "Rust lite / MIR plus"
 - [Xuanwo/keyboard-coming](https://github.com/Xuanwo/keyboard-coming) - 我陈平安，唯有一键，可搬山，倒海，降妖，镇魔，敕神，摘星，断江，摧城，开天！
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
@@ -946,7 +961,7 @@
 - [livid/rework](https://github.com/livid/rework) - Rework Chinese Translation Project
 - [likethereisnobox/ds-tutorials](https://github.com/likethereisnobox/ds-tutorials) - 
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-- [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [phodal/books](https://github.com/phodal/books) - A Record of Phodal's books.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -975,6 +990,10 @@
 
 ## Python 
 
+- [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+- [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
+- [AmoDinho/datacamp-python-data-science-track](https://github.com/AmoDinho/datacamp-python-data-science-track) - All the slides, accompanying code and exercises all stored in this repo. 🎈
+- [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -988,8 +1007,10 @@
 - [mlc-ai/mlc-zh](https://github.com/mlc-ai/mlc-zh) - 
 - [avinassh/py-caskdb](https://github.com/avinassh/py-caskdb) - (educational) build your own disk based KV store
 - [Xpktro/bndr](https://github.com/Xpktro/bndr) - A library + command line tool to facilitate databending/glitch art.
+- [mithril-security/blindai](https://github.com/mithril-security/blindai) - Confidential AI deployment with secure enclaves :lock:
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [ypwhs/dl-engineer-guidebook](https://github.com/ypwhs/dl-engineer-guidebook) - 深度学习工程师生存指南
 - [hjwp/datascience-from-scratch](https://github.com/hjwp/datascience-from-scratch) - making my way thru the "Data Science from Scratch" book https://amzn.to/3hMJVMk
@@ -1017,7 +1038,6 @@
 - [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
 - [bukseng/kobe24](https://github.com/bukseng/kobe24) - programming language for learning and teaching the basics programming
 - [sonovice/sheet-music-normalization](https://github.com/sonovice/sheet-music-normalization) - Correction of rotation and scaling of sheet music images
-- [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
 - [sipeed/platform-gd32v](https://github.com/sipeed/platform-gd32v) - GD32V: development platform for PlatformIO
@@ -1086,7 +1106,7 @@
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [yoongkang/nardis](https://github.com/yoongkang/nardis) - A small web framework based on ASGI
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
 - [moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
@@ -1157,6 +1177,18 @@
 
 ## Rust 
 
+- [RalfJung/cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way
+- [taiki-e/futures-async-stream](https://github.com/taiki-e/futures-async-stream) - Async stream for Rust and the futures crate.
+- [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis) - A distributed transactional large-scale NoSQL database powered by TiKV
+- [notgull/async-dns](https://github.com/notgull/async-dns) - Asynchronous DNS lookups
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust
+- [yoshuawuyts/async-iterator](https://github.com/yoshuawuyts/async-iterator) - An async version of iterator
+- [withoutboats/fehler](https://github.com/withoutboats/fehler) - Rust doesn't have exceptions
+- [japaric/cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis
+- [rksm/cargo-add-dynamic](https://github.com/rksm/cargo-add-dynamic) - cargo-add command to make dependencies into dylibs
+- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
+- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
+- [illa-family/illa](https://github.com/illa-family/illa) - 🚀 Deploy a modern low-code platform in 5 Seconds!
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [cloudwego/volo](https://github.com/cloudwego/volo) - A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
 - [sudeep9/mojo](https://github.com/sudeep9/mojo) - Versioning filesystem for Sqlite
@@ -1176,7 +1208,7 @@
 - [losfair/unproxy](https://github.com/losfair/unproxy) - Map TCP services behind an HTTP(S) proxy to local ports.
 - [jorgecarleitao/arrowdantic](https://github.com/jorgecarleitao/arrowdantic) - Arrow, pydantic style
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture) - A wrapper around Rust futures that stores the future in space provided by the caller.
-- [lemunozm/service-io](https://github.com/lemunozm/service-io) - Build your service-server fast, easy (and without hosting!)
+- [lemunozm/service-io](https://github.com/lemunozm/service-io) - Build your own hostingless server.
 - [drewcrawford/kiruna](https://github.com/drewcrawford/kiruna) - An experimental, tiny, fast, and simple async executor and IO library for Rust
 - [Amanieu/intrusive-rs](https://github.com/Amanieu/intrusive-rs) - Intrusive collections for Rust
 - [rbspy/proc-maps](https://github.com/rbspy/proc-maps) - Read virtual memory maps from another process
@@ -1233,7 +1265,7 @@
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [risinglightdb/sqlplannertest-rs](https://github.com/risinglightdb/sqlplannertest-rs) - A yaml-based SQL planner test framework
 - [wmjtyd/ecbt](https://github.com/wmjtyd/ecbt) - High performance cryptocurrency trading API with support for user defined networking.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, letting you run local code in cloud conditions.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [tchajed/minimal-elf](https://github.com/tchajed/minimal-elf) - Creating a minimal ELF file
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -1246,7 +1278,6 @@
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [blaze-init/blaze](https://github.com/blaze-init/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 - [duo-rs/duo](https://github.com/duo-rs/duo) - Observability duet: Logging and Tracing
-- [mithril-security/blindai](https://github.com/mithril-security/blindai) - Confidential AI deployment with secure enclaves :lock:
 - [andylokandy/typed-type-exercise-in-rust](https://github.com/andylokandy/typed-type-exercise-in-rust) - Build database expression type checker and vectorized runtime executor in type-safe Rust
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
@@ -1276,7 +1307,6 @@
 - [austinjones/postage-rs](https://github.com/austinjones/postage-rs) - The feature-rich, portable async channel library
 - [purton-tech/cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers
 - [cmccomb/rust-automl](https://github.com/cmccomb/rust-automl) - Automated Machine Learning in Rust 🦀
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [landaire/fazi](https://github.com/landaire/fazi) - drop-in replacement for libfuzzer
 - [cloudpeers/xbuild](https://github.com/cloudpeers/xbuild) - Cross compile rust to any platform
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
@@ -1315,7 +1345,7 @@
 - [inspektor-dev/inspektor](https://github.com/inspektor-dev/inspektor) - Inspektor is a protocol-aware proxy that is used to enforce access policies👮
 - [deislabs/bindle](https://github.com/deislabs/bindle) - Bindle: Object Storage for Collections
 - [maekawatoshiki/sericum](https://github.com/maekawatoshiki/sericum) - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
-- [bnclabs/rdms](https://github.com/bnclabs/rdms) - Storage library (Work In Progress)
+- [prataprc/rdms](https://github.com/prataprc/rdms) - Storage library (Work In Progress)
 - [bnclabs/robt](https://github.com/bnclabs/robt) - Read only BTree, immutable index for disk/SSD.
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [mwlon/quantile-compression](https://github.com/mwlon/quantile-compression) - Lossless compressor and decompressor for numerical data using quantiles
@@ -1356,7 +1386,7 @@
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An OLAP database system for educational purpose
 - [diem/whackadep](https://github.com/diem/whackadep) - Managing Rust dependencies via a dashboard
-- [chaosprint/glicol](https://github.com/chaosprint/glicol) - graph-oriented live coding language and music dsp library written in rust
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [dtolnay/prettyplease](https://github.com/dtolnay/prettyplease) - A minimal `syn` syntax tree pretty-printer
 - [ritchie46/lsh-rs](https://github.com/ritchie46/lsh-rs) - Locality Sensitive Hashing in Rust with Python bindings
 - [apache/skywalking-rust](https://github.com/apache/skywalking-rust) - Apache SkyWalking Rust Agent
@@ -1409,7 +1439,7 @@
 - [frondeus/test-case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Databend Serverless at https://app.databend.com/
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Free and open. Also available in the cloud: https://app.databend.com
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [penberg/ycsb-rs](https://github.com/penberg/ycsb-rs) - A Rust port of Yahoo! Cloud Serving Benchmark (YCSB)
 - [shosti/wraft](https://github.com/shosti/wraft) - Raft distributed consensus for WebAssembly in Rust
@@ -1455,6 +1485,7 @@
 - [akkoro/assemblylift](https://github.com/akkoro/assemblylift) - The easiest way to build & deploy cloud native microservices! Written in Rust, powered by WebAssembly 🚀
 - [softprops/fasttime](https://github.com/softprops/fasttime) - ⏱️ A Fastly serverless compute@edge runtime for running wasm applications locally
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
@@ -1472,7 +1503,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
-- [facebookincubator/cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
+- [facebookarchive/cargo-guppy](https://github.com/facebookarchive/cargo-guppy) - Track and query Cargo dependency graphs.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [Manishearth/compiletest-rs](https://github.com/Manishearth/compiletest-rs) - An extraction of the compiletest utility from the Rust compiler
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
@@ -1540,7 +1571,7 @@
 - [kennytm/dbgen](https://github.com/kennytm/dbgen) - Generate random test cases for databases
 - [commure/datatest](https://github.com/commure/datatest) - Datatest -- data-driven test framework for Rust
 - [greyblake/cargo-testify](https://github.com/greyblake/cargo-testify) - Watches changes in a rust project, runs test and shows friendly notification
-- [facebookincubator/propfuzz](https://github.com/facebookincubator/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
+- [facebookarchive/propfuzz](https://github.com/facebookarchive/propfuzz) - A Rust toolkit to combine property-based testing and fuzzing.
 - [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [reem/stainless](https://github.com/reem/stainless) - Organized, flexible testing framework for Rust
 - [ms705/taster](https://github.com/ms705/taster) - Automatic performance regression tests for Rust code
@@ -1657,8 +1688,8 @@
 - [BaguaSys/bagua-core](https://github.com/BaguaSys/bagua-core) - Core communication lib for Bagua.
 - [benfred/remoteprocess](https://github.com/benfred/remoteprocess) - Cross platform process information in Rust
 - [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns) - A Rust based DNS client, server, and resolver
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [jonhoo/flurry](https://github.com/jonhoo/flurry) - A port of Java's ConcurrentHashMap to Rust
 - [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime) - Main Tremor Project Rust Codebase
@@ -1754,7 +1785,7 @@
 - [sunli829/yql](https://github.com/sunli829/yql) - 
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [Absolucy/nanorand-rs](https://github.com/Absolucy/nanorand-rs) - A tiny, fast, zero-dep library for random number generation
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky, it attaches to anywhere.
+- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [marcusbuffett/chess-tactics-cli](https://github.com/marcusbuffett/chess-tactics-cli) - A tactics trainer for the command line
 - [benWindsorCode/rustBlockchain](https://github.com/benWindsorCode/rustBlockchain) - A simple implementation of a blockchain in rust
 - [nlv8/agreed](https://github.com/nlv8/agreed) - Fork of async-raft, the Tokio-based Rust implementation of the Raft protocol.
@@ -1905,7 +1936,7 @@
 - [orbitalci/orbital](https://github.com/orbitalci/orbital) - Orbital is a self-hosted CI system for solo/small consulting dev teams. Written in Rust.
 - [thoughtbot/complexity](https://github.com/thoughtbot/complexity) - A command line tool to identify complex code
 - [ferrous-systems/teaching-material](https://github.com/ferrous-systems/teaching-material) - 
-- [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
+- [toml-rs/toml-rs](https://github.com/toml-rs/toml-rs) - A TOML encoding/decoding library for Rust
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
@@ -1942,7 +1973,7 @@
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel
-- [bnclabs/xorfilter](https://github.com/bnclabs/xorfilter) - Rust library implementing xor-filters
+- [prataprc/xorfilter](https://github.com/prataprc/xorfilter) - Rust library implementing xor-filters
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
 - [bastion-rs/agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
@@ -2250,6 +2281,7 @@
 - [RPM-Outpost/typora](https://github.com/RPM-Outpost/typora) - RPM package for the markdown editor Typora
 - [nmilosev/termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [mesalock-linux/mesalock-distro](https://github.com/mesalock-linux/mesalock-distro) - MesaLock Linux: a memory-safe Linux distribution.
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Solidity 
 
@@ -2294,6 +2326,8 @@
 
 ## TypeScript 
 
+- [illa-family/illa-builder](https://github.com/illa-family/illa-builder) - An open-source low-code Platform for Developers.
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -2304,8 +2338,8 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [arthurdenner/all-contributors-api](https://github.com/arthurdenner/all-contributors-api) - Serverless functions to check and get data from projects following the all-contributors spec.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [blockprotocol/blockprotocol](https://github.com/blockprotocol/blockprotocol) - The open block protocol  Þ
-- [bentoml/Yatai](https://github.com/bentoml/Yatai) - Production-first ML platform on Kubernetes 🦄️
+- [blockprotocol/blockprotocol](https://github.com/blockprotocol/blockprotocol) - The open Block Protocol  Þ
+- [bentoml/Yatai](https://github.com/bentoml/Yatai) - Model Deployment at Scale on Kubernetes 🦄️
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [kolplattformen/skolplattformen](https://github.com/kolplattformen/skolplattformen) - The source code to the civic tech project Öppna Skolplattformen.
 - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone.
@@ -2357,7 +2391,7 @@
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [xuwaters/editor.sh](https://github.com/xuwaters/editor.sh) - Yet another live programming environment for collaborative code editing and running.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
 - [wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2365,7 +2399,6 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [acheronfail/xi-electron](https://github.com/acheronfail/xi-electron) - A front-end for the xi-editor built with modern web technologies.
-- [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
@@ -2390,6 +2423,7 @@
 
 ## Verilog 
 
+- [darklife/darkriscv](https://github.com/darklife/darkriscv) - opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 - [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32) - PicoRV32 - A Size-Optimized RISC-V CPU
 - [SI-RISCV/e200_opensource](https://github.com/SI-RISCV/e200_opensource) - Deprecated, please go to next generation Ultra-Low Power RISC-V Core https://github.com/riscv-mcu/e203_hbirdv2
 
@@ -2422,9 +2456,10 @@
 
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [coilhq/viewstamped-replication-made-famous](https://github.com/coilhq/viewstamped-replication-made-famous) - A $20k consensus challenge based on TigerBeetle's implementation of the pioneering Viewstamped Replication protocol.
-- [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services.
+- [tigerbeetledb/viewstamped-replication-made-famous](https://github.com/tigerbeetledb/viewstamped-replication-made-famous) - A $20k consensus challenge based on TigerBeetle's implementation of the pioneering Viewstamped Replication protocol.
+- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [cztomsik/graffiti](https://github.com/cztomsik/graffiti) - HTML/CSS engine for node.js and deno.
 
 
 ## License
